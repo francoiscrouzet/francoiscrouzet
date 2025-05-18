@@ -1,16 +1,56 @@
-## Hi there 👋
+# François Crouzet
 
-<!--
-**francoiscrouzet/francoiscrouzet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full‑stack engineer** · 15 years’ experience · Berlin 🇩🇪  
+Frontend focus (Vue 3 / TypeScript) · Backend skills (PHP / Symfony)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Snapshot
+- **Versatile** – from C++ audio‑DSP to Kotlin Android UI, with a strong modern‑web track record.  
+- **Fast ramp‑up** – quickly grasp complex codebases.  
+- **Mentoring when needed** – onboarding and guiding developers.  
+- **Trilingual** – French (native), English C1, German C1.
+
+---
+
+## Core skills
+| Area        | Technologies & tools                               |
+|-------------|----------------------------------------------------|
+| Front‑end   | Vue 3, Vite, TypeScript, Angular 14, Tailwind, Ionic |
+| Back‑end    | PHP, Symfony                                       |
+| Tests & CI  | Vitest (TS), Jest (JS), PHPUnit (PHP), Cypress     |
+| Mobile      | Kotlin, Jetpack Compose, Android View              |
+| Other       | C++, Python, Elasticsearch, MongoDB                |
+
+---
+
+## Highlighted open‑source work
+
+### PR highlights  
+- [Move from webpack to vite – iDig‑Webapp #4](https://github.com/esag-swiss/iDig-Webapp/pull/4)  
+  Complete migration to Vite, repository cleanup, 14 commits.
+- [Refactor search for future multi‑criterium – Thacer #40](https://github.com/archaiodata/thacer/pull/40)  
+  Extraction and standardisation of the search engine, 12 commits.
+
+### All PRs
+→ [All my iDig‑Webapp PRs](https://github.com/esag-swiss/iDig-Webapp/pulls?q=is%3Apr+author%3Afrancoiscrouzet)  
+→ [All my Thacer PRs](https://github.com/archaiodata/thacer/pulls?q=is%3Apr+author%3Afrancoiscrouzet)
+
+---
+
+## Domains & sectors
+E‑learning · healthcare · research · archaeology · insurance · audio DSP
+
+See my [LinkedIn](https://www.linkedin.com/in/francoiscrouzet) for project details.
+
+---
+
+## Certifications & continuous learning
+- **iSAQB® Foundation Level** – 2025  
+- Machine Learning & Deep Learning (MOOC)  
+- Master’s in Computer Science & Cognitive Sciences – Univ. Toulouse & Grenoble
+
+---
+
+## Interests
+Meditation · team wellbeing · travel · hiking · wing skate
