@@ -1,15 +1,17 @@
 # François Crouzet
 
 **Full‑stack engineer** · 15 years’ experience · Berlin 🇩🇪  
-Frontend focus (Vue 3 / TypeScript) · Backend skills (PHP / Symfony)  
+Frontend focus (Vue 3 / TypeScript) · Backend (PHP / Symfony)  
 
 ---
 
 ## Snapshot
 - **Versatile** – from C++ audio‑DSP to Kotlin Android UI, with a strong modern‑web track record.  
 - **Fast ramp‑up** – quickly grasp complex codebases.  
-- **Mentoring when needed** – onboarding and guiding developers.  
+- **Mentoring** – onboarding and guiding developers.  
 - **Trilingual** – French (native), English C1, German C1.
+- **Learning** – continuous curiosity and exploration
+
 
 ---
 
@@ -18,7 +20,7 @@ Frontend focus (Vue 3 / TypeScript) · Backend skills (PHP / Symfony)
 |-------------|----------------------------------------------------|
 | Front‑end   | Vue 3, Vite, TypeScript, Angular 14, Tailwind, Ionic |
 | Back‑end    | PHP, Symfony                                       |
-| Tests & CI  | Vitest (TS), Jest (JS), PHPUnit (PHP), Cypress     |
+| Tests & CI  | Vitest, Jest, PHPUnit, Cypress     |
 | Mobile      | Kotlin, Jetpack Compose, Android View              |
 | Other       | C++, Python, Elasticsearch, MongoDB                |
 
@@ -53,4 +55,4 @@ See my [LinkedIn](https://www.linkedin.com/in/francoiscrouzet) for project detai
 ---
 
 ## Interests
-Meditation · team wellbeing · travel · hiking · wing skate
+Meditation · travel · hiking · dance · wing skate · languages · reading
