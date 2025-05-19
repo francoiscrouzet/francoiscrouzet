@@ -1,15 +1,15 @@
 # François Crouzet
 
-**Full‑stack engineer** · 15 years’ experience · Berlin 🇩🇪  
+**Full‑stack engineer** · Berlin 🇪🇺   
 Frontend focus (Vue 3 / TypeScript) · Backend (PHP / Symfony)  
 
 ---
 
 ## Snapshot
-- **Versatile** – from C++ audio‑DSP to Kotlin Android UI, with a strong modern‑web track record.  
-- **Fast ramp‑up** – quickly grasp complex codebases.  
-- **Mentoring** – onboarding and guiding developers.  
-- **Trilingual** – French (native), English C1, German C1.
+- **Versatile** – from C++ audio‑DSP to Kotlin Android UI, with a strong modern‑web track record  
+- **Fast ramp‑up** – quickly grasp complex codebases  
+- **Mentoring** – onboarding and guiding developers  
+- **Trilingual** – French (native), English C1, German C1
 - **Learning** – continuous curiosity and exploration
 
 
@@ -30,9 +30,9 @@ Frontend focus (Vue 3 / TypeScript) · Backend (PHP / Symfony)
 
 ### PR highlights  
 - [Move from webpack to vite – iDig‑Webapp #4](https://github.com/esag-swiss/iDig-Webapp/pull/4)  
-  Complete migration to Vite, repository cleanup, 14 commits.
+  Complete migration to Vite, repository cleanup, 14 commits
 - [Refactor search for future multi‑criterium – Thacer #40](https://github.com/archaiodata/thacer/pull/40)  
-  Extraction and standardisation of the search engine, 12 commits.
+  Extraction and standardisation of the search engine, 12 commits
 
 ### All PRs
 → [All my iDig‑Webapp PRs](https://github.com/esag-swiss/iDig-Webapp/pulls?q=is%3Apr+author%3Afrancoiscrouzet)  
@@ -43,7 +43,7 @@ Frontend focus (Vue 3 / TypeScript) · Backend (PHP / Symfony)
 ## Domains & sectors
 E‑learning · healthcare · research · archaeology · insurance · audio DSP
 
-See my [LinkedIn](https://www.linkedin.com/in/francoiscrouzet) for project details.
+See my [LinkedIn](https://www.linkedin.com/in/francoiscrouzet) for project details
 
 ---
 
