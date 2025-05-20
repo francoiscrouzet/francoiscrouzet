@@ -35,8 +35,8 @@ Frontend focus (Vue 3 / TypeScript) · Backend (PHP / Symfony)
   Extraction and standardisation of the search engine, 12 commits
 
 ### All PRs
-→ [All my iDig‑Webapp PRs](https://github.com/esag-swiss/iDig-Webapp/pulls?q=is%3Apr+author%3Afrancoiscrouzet)  
-→ [All my Thacer PRs](https://github.com/archaiodata/thacer/pulls?q=is%3Apr+author%3Afrancoiscrouzet)
+→ [All my iDig‑Webapp PRs](https://github.com/esag-swiss/iDig-Webapp/pulls?q=is%3Apr+author%3Afrancoiscrouzet+sort%3Acreated-asc)  
+→ [All my Thacer PRs](https://github.com/archaiodata/thacer/pulls?q=is%3Apr+author%3Afrancoiscrouzet+sort%3Acreated-asc)
 
 ---
 
