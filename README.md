@@ -1,7 +1,7 @@
 # François Crouzet
 
 **Full‑stack engineer** · Berlin 🇪🇺   
-Frontend focus (Vue 3 / TypeScript) · Backend (PHP / Symfony)  
+with frontend focus (Vue 3 / TypeScript)
 
 ---
 
@@ -18,8 +18,8 @@ Frontend focus (Vue 3 / TypeScript) · Backend (PHP / Symfony)
 ## Core skills
 | Area        | Technologies & tools                               |
 |-------------|----------------------------------------------------|
-| Front‑end   | Vue 3, Vite, TypeScript, Angular 14, Tailwind, Ionic |
-| Back‑end    | PHP, Symfony                                       |
+| Front‑end   | Vue 3, Vite, TypeScript, Angular, Tailwind, Ionic |
+| Back‑end    | PHP, Symfony, Node                                       |
 | Tests & CI  | Vitest, Jest, PHPUnit, Cypress     |
 | Mobile      | Kotlin, Jetpack Compose, Android View              |
 | Other       | C++, Python, Elasticsearch, MongoDB                |
@@ -30,9 +30,9 @@ Frontend focus (Vue 3 / TypeScript) · Backend (PHP / Symfony)
 
 ### PR highlights  
 - [Move from webpack to vite – iDig‑Webapp #4](https://github.com/esag-swiss/iDig-Webapp/pull/4)  
-  Complete migration to Vite, repository cleanup, 14 commits
 - [Refactor search for future multi‑criterium – Thacer #40](https://github.com/archaiodata/thacer/pull/40)  
-  Extraction and standardisation of the search engine, 12 commits
+- [Switch store to pinia and upgrade to vue 3.3.4 #80](https://github.com/esag-swiss/iDig-Webapp/pull/80)  
+- [Implement an apiclient #23](https://github.com/esag-swiss/iDig-Webapp/pull/23)  
 
 ### All PRs
 → [All my iDig‑Webapp PRs](https://github.com/esag-swiss/iDig-Webapp/pulls?q=is%3Apr+author%3Afrancoiscrouzet+sort%3Acreated-asc)  
@@ -48,7 +48,8 @@ See my [LinkedIn](https://www.linkedin.com/in/francoiscrouzet) for project detai
 ---
 
 ## Certifications & continuous learning
-- **iSAQB® Foundation Level** – 2025  
+- **iSAQB® Foundation Level** – 2025
+- **iSAQB® Soft Skills** – 2025  
 - Machine Learning & Deep Learning (MOOC)  
 - Master’s in Computer Science & Cognitive Sciences – Univ. Toulouse & Grenoble
 
