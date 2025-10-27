@@ -1,7 +1,6 @@
 # François Crouzet
 
 **Full‑stack engineer** · Berlin 🇪🇺   
-with frontend focus (Vue 3 / TypeScript)
 
 ---
 
@@ -29,14 +28,14 @@ with frontend focus (Vue 3 / TypeScript)
 ## Highlighted open‑source work
 
 ### PR highlights  
-- [Move from webpack to vite – iDig‑Webapp #4](https://github.com/esag-swiss/iDig-Webapp/pull/4)  
+- [Move from webpack to vite – iDig‑Webapp #4](https://github.com/esag-swiss/iDig-Webapp/pull/4)
+- [Implement an apiclient #23](https://github.com/esag-swiss/iDig-Webapp/pull/23)  
 - [Refactor search for future multi‑criterium – Thacer #40](https://github.com/archaiodata/thacer/pull/40)  
 - [Switch store to pinia and upgrade to vue 3.3.4 #80](https://github.com/esag-swiss/iDig-Webapp/pull/80)  
-- [Implement an apiclient #23](https://github.com/esag-swiss/iDig-Webapp/pull/23)  
 
 ### All PRs
-→ [All my iDig‑Webapp PRs](https://github.com/esag-swiss/iDig-Webapp/pulls?q=is%3Apr+author%3Afrancoiscrouzet+sort%3Acreated-asc)  
-→ [All my Thacer PRs](https://github.com/archaiodata/thacer/pulls?q=is%3Apr+author%3Afrancoiscrouzet+sort%3Acreated-asc)
+→ [All iDig‑Webapp PRs](https://github.com/esag-swiss/iDig-Webapp/pulls?q=is%3Apr+author%3Afrancoiscrouzet+sort%3Acreated-asc)  
+→ [All Thacer PRs](https://github.com/archaiodata/thacer/pulls?q=is%3Apr+author%3Afrancoiscrouzet+sort%3Acreated-asc)
 
 ---
 
