@@ -29,9 +29,9 @@
 
 ### PR highlights  
 - [Move from webpack to vite – iDig‑Webapp #4](https://github.com/esag-swiss/iDig-Webapp/pull/4)
-- [Implement an apiclient #23](https://github.com/esag-swiss/iDig-Webapp/pull/23)  
+- [Implement an apiclient – iDig‑Webapp #23](https://github.com/esag-swiss/iDig-Webapp/pull/23)  
 - [Refactor search for future multi‑criterium – Thacer #40](https://github.com/archaiodata/thacer/pull/40)  
-- [Switch store to pinia and upgrade to vue 3.3.4 #80](https://github.com/esag-swiss/iDig-Webapp/pull/80)  
+- [Switch store to pinia and upgrade to vue 3.3.4 – iDig‑Webapp #80](https://github.com/esag-swiss/iDig-Webapp/pull/80)  
 
 ### All PRs
 → [All iDig‑Webapp PRs](https://github.com/esag-swiss/iDig-Webapp/pulls?q=is%3Apr+author%3Afrancoiscrouzet+sort%3Acreated-asc)  
